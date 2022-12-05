@@ -1,6 +1,6 @@
 <#
 .DESCRIPTION
-Test PS script for Day 3- Kevin Walther
+Test PS script for Day 3 - Kevin Walther
 #>
 
 # Define a function to find the intersection of the rucksack halves.

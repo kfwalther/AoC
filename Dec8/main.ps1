@@ -1,5 +1,5 @@
 <#
-Dec 7 Python script
+Dec 8 Powershell script
 #>
 
 class Forest {
